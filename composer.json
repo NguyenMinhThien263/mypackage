@@ -1,5 +1,5 @@
 {
-    "name": "NguyenMinhhThien263/mypackage",
+    "name": "nguyenminhthien263/mypackage",
     "description": "mypackage",
     "keywords": [
         "mypackage"
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NguyenMinhThien263\\Mypackage\\": "src/"
+            "Nguyenminhthien263\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
