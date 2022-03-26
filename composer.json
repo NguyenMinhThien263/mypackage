@@ -1,0 +1,34 @@
+{
+    "name": "NguyenMinhhThien263/mypackage",
+    "description": "mypackage",
+    "keywords": [
+        "mypackage"
+    ],
+    "authors": [
+        {
+            "name": "NguyenMinhThien263",
+            "email": "nguyenminhthien263@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "NguyenMinhThien263\\Mypackage\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+
+        ]
+    },
+    "scripts": {
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
